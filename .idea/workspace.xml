@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e9d1cde6-de57-470e-aa75-b0e79a06d1ed" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="UML Class" />
+        <option value="UML Sequence" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\maven_repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ccacDb4Tz1dEpcvJ8PPoWegPay" />
+  <component name="PropertiesComponent">
+    <property name="DefaultPlantUmlFileTemplate" value="UML Sequence" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev_workhome\设计模式\Principle\src\com\designpattern\demeter" />
+      <recent name="D:\dev_workhome\设计模式\Principle\src\com\designpattern\ocp" />
+      <recent name="D:\dev_workhome\设计模式\Principle\src\com\designpattern\liskov" />
+      <recent name="D:\dev_workhome\设计模式\Principle\src\com\designpattern\inversion" />
+      <recent name="D:\dev_workhome\设计模式\Principle\src\com\designpattern\segregation" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.T_02_Demeter">
+    <configuration name="T_01_Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.demeter.T_01_Demeter" />
+      <module name="Principle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpattern.demeter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T_01_Ocp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.ocp.T_01_Ocp" />
+      <module name="Principle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpattern.ocp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T_02_Demeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.demeter.T_02_Demeter" />
+      <module name="Principle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpattern.demeter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T_02_Liskov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.liskov.T_02_Liskov" />
+      <module name="Principle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpattern.liskov.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T_02_Ocp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.designpattern.ocp.T_02_Ocp" />
+      <module name="Principle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.designpattern.ocp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T_02_Demeter" />
+        <item itemvalue="Application.T_01_Demeter" />
+        <item itemvalue="Application.T_02_Ocp" />
+        <item itemvalue="Application.T_01_Ocp" />
+        <item itemvalue="Application.T_02_Liskov" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9d1cde6-de57-470e-aa75-b0e79a06d1ed" name="Default Changelist" comment="" />
+      <created>1590830412891</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590830412891</updated>
+      <workItem from="1590830416322" duration="1282000" />
+      <workItem from="1590898020435" duration="13623000" />
+      <workItem from="1591192157919" duration="57000" />
+      <workItem from="1591192239378" duration="595000" />
+      <workItem from="1591193511806" duration="549000" />
+      <workItem from="1591194166970" duration="527000" />
+      <workItem from="1591194822099" duration="4949000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
