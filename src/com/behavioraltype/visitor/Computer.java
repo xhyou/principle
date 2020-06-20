@@ -15,10 +15,11 @@ public class Computer {
         PersonalVisitor p = new PersonalVisitor();
         new Computer().accept(p);
         System.out.println(p.totalPrice);
-        /*ObjectStructure objectStructure = new ObjectStructure();
+
+        ObjectStructure objectStructure = new ObjectStructure();
         PersonalVisitor personalVisitor = new PersonalVisitor();
         objectStructure.attach(new CPU());
-        objectStructure.display(personalVisitor);*/
+        objectStructure.display(personalVisitor);
 
     }
 }
